@@ -1,3 +1,1 @@
-Proyecto prueba de como crear un repositorio y clonarlo desed Github a mi PC
-
-
+Segunda prueba de proyecto github a escritorio local
