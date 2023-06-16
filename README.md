@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Primer repositorio En GitHub - modulo n2
+Proyecto prueba de como crear un repositorio y clonarlo desed Github a mi PC
+
+
